@@ -1,10 +1,15 @@
 {
+    "publisher": "FSXplay",
     "name": "visual-studio-monokai",
     "displayName": "Visual Studio Monokai",
     "description": "Visual Studio Monokai",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.64.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FSXplay/visual-studio-monokai"
     },
     "categories": [
         "Themes"
