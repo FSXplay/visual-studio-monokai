@@ -666,7 +666,7 @@
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#F92672",
+				"foreground": "#66D9EF",
 				"fontStyle": ""
 			}
 		},
@@ -694,15 +694,15 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#A6E22E",
+				"foreground": "#DCDCAA",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#FD971F",
-				"fontStyle": "italic"
+				"foreground": "#9CDCFE",
+				"fontStyle": ""
 			}
 		},
 		{
