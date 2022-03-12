@@ -641,7 +641,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#66D9EF"
 			}
 		},
 		{
@@ -687,8 +687,8 @@
 		{
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#A6E22E",
-				"fontStyle": "italic underline"
+				"foreground": "#FD971F",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -951,9 +951,16 @@
 			}
 		},
 		{
-			"scope": "entity.name.type",
+			"scope": "entity.name.type.class",
 			"settings": {
 				"foreground": "#FD971F",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "entity.name.type.struct",
+			"settings": {
+				"foreground": "#60aa9b",
 				"fontStyle": ""
 			}
 		},
