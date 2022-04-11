@@ -5,13 +5,13 @@ For developers who love colorful things, this theme is a great choice! This was 
 VScode Marketplace: https://marketplace.visualstudio.com/items?itemName=FSXplay.visual-studio-monokai
 
 ## **C#**
-![alt](https://raw.githubusercontent.com/FSXplay/visual-studio-monokai/Visual-Studio-Monokai-ver-1.0.6/images/Screenshot%20(74).png)
+![alt](https://raw.githubusercontent.com/FSXplay/visual-studio-monokai/Visual-Studio-Monokai-ver-1.1.0/images/Screenshot%20(74).png)
 
 ## **C++**
-![alt](https://raw.githubusercontent.com/FSXplay/visual-studio-monokai/Visual-Studio-Monokai-ver-1.0.6/images/Screenshot%20(71).png)
+![alt](https://raw.githubusercontent.com/FSXplay/visual-studio-monokai/Visual-Studio-Monokai-ver-1.1.0/images/Screenshot%20(71).png)
 
 ## **Python**
-![alt](https://raw.githubusercontent.com/FSXplay/visual-studio-monokai/Visual-Studio-Monokai-ver-1.0.6/images/Screenshot%20(72).png)
+![alt](https://raw.githubusercontent.com/FSXplay/visual-studio-monokai/Visual-Studio-Monokai-ver-1.1.0/images/Screenshot%20(72).png)
 
 ## **Java**
-![alt](https://raw.githubusercontent.com/FSXplay/visual-studio-monokai/Visual-Studio-Monokai-ver-1.0.6/images/Screenshot%20(75).png)
+![alt](https://raw.githubusercontent.com/FSXplay/visual-studio-monokai/Visual-Studio-Monokai-ver-1.1.0/images/Screenshot%20(75).png)
