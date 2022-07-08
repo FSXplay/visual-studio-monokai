@@ -701,7 +701,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#9CDCFE",
+				"foreground": "#F8F8F2",
 				"fontStyle": ""
 			}
 		},
@@ -992,13 +992,13 @@
 		{
 			"scope": "entity.name.variable.local.cs",
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#F8F8F2"
 			}
 		},
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#9CDCFE",
+				"foreground": "#F8F8F2",
 				"fontStyle": ""
 			}
 		}
