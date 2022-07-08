@@ -674,7 +674,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"foreground": "#66D9EF",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				"foreground": "#66D9EF",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -849,7 +849,7 @@
 			"scope": "markup.quote.markdown",
 			"settings": {
 				"foreground": "#75715E",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -873,7 +873,7 @@
 		{
 			"scope": "markup.italic.markdown",
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
